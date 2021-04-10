@@ -7,8 +7,11 @@ It is made with opencv & socket.
 
 There are several functions:-
 Right click- Board color will be set to your current color
+
 Double right click- Board will be clear
+
 Left click- Allows you to paint on board
+
 * You also get a specific window to set your color *
 
 Here's a video example:-->
