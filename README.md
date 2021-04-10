@@ -12,7 +12,7 @@ Double right click- Board will be clear
 
 Left click- Allows you to paint on board
 
-* You also get a specific window to set your color *
+* You also get a specific window to set your color
 
 Here's a video example:-->
 
