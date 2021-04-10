@@ -21,7 +21,9 @@ SERVER WORK:
 """
 SERVER_SOCKET = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 HOSTNAME = socket.gethostbyname(socket.gethostname())
-PORT = 5555
+PORT = int(input("ENTER YOUR PORT: "))
+if not PORT:
+    PORT = 5555
 print("HOST IP: ",HOSTNAME, " HOST PORT: ", PORT)
 SOCKET_ADDRESS = (HOSTNAME,PORT)
 def start_srv():
