@@ -16,8 +16,12 @@ import sys
 CLIENT WORK
 """
 CLIENT_SOCKET = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-HOSTNAME = socket.gethostbyname(socket.gethostname())
-PORT = 5555
+HOSTNAME = str(input("ENTER YOUR IP: "))
+if not HOSTNAME:
+    HOSTNAME = socket.gethostbyname(socket.gethostname())
+PORT = int(input("ENTER YOUR PORT: "))
+if not PORT:
+    PORT = 5555
 CLIENT_SOCKET.connect((HOSTNAME,PORT))
 """
 GETTING DATA FROM SERVER
