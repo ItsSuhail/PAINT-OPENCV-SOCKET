@@ -9,8 +9,10 @@ There are several functions:-
 Right click- Board color will be set to your current color
 Double right click- Board will be clear
 Left click- Allows you to paint on board
+* You also get a specific window to set your color *
 
 Here's a video example:-->
 
 https://user-images.githubusercontent.com/82229055/114259959-6b380900-99ef-11eb-9826-61aa399ec53e.MP4
 
+If you want to connect to your friends without paying anything, I suggest to use "ngrok" it can create ("TCP", "HTTP") tunnels for free
