@@ -24,6 +24,7 @@ HOSTNAME = socket.gethostbyname(socket.gethostname())
 PORT = int(input("ENTER YOUR PORT: "))
 if not PORT:
     PORT = 5555
+PORT = int(PORT)
 print("HOST IP: ",HOSTNAME, " HOST PORT: ", PORT)
 SOCKET_ADDRESS = (HOSTNAME,PORT)
 def start_srv():
