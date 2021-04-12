@@ -24,6 +24,7 @@ if not HOSTNAME:
 PORT = int(input("ENTER YOUR PORT: "))
 if not PORT:
     PORT = 5555
+PORT = int(PORT)
 CLIENT_SOCKET.connect((HOSTNAME,PORT))
 """
 GETTING DATA FROM SERVER
