@@ -18,3 +18,7 @@ Left click- Allows you to paint on board
 
 Its a side project, my goal was to build it to an extent so that it can be used for teaching and stuff. I have worked on many projects like this with the help of Socket library.
 In the future I will be thinking to add Tkinter or I will just build it again with JavaFX or C# and build a very different and cool UI.
+
+
+NOTE THAT
+ * There may be some bugs and issues with this program, as I have not tackled some 'Execptions' so the program might crash but still the chances are low!
