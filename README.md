@@ -17,3 +17,4 @@ Left click- Allows you to paint on board
 * Link for ngrok- https://ngrok.com/download
 
 Its a side project, my goal was to build it to an extent so that it can be used for teaching and stuff. I have worked on many projects like this with the help of Socket library.
+In the future I will be thinking to add Tkinter or I will just build it again with JavaFX or C# and build a very different and cool UI.
