@@ -14,13 +14,6 @@ Left click- Allows you to paint on board
 
 * You also get a specific window to set your color
 
-Here's a video example:-->
-
-https://youtu.be/JnxjZ_xDs0c
-
-If you want to connect to your friends without paying anything, I suggest to use "ngrok" it can create ("TCP", "HTTP") tunnels for free
-
 * Link for ngrok- https://ngrok.com/download
 
-
-YouTube Channel - https://www.youtube.com/channel/UCASZ3RyZk0lmlD9JIHAAzAQ
+Its a side project, my goal was to build it to an extent so that it can be used for teaching and stuff. I have worked on many projects like this with the help of Socket library.
